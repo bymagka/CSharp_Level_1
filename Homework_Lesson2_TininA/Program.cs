@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Написать метод, возвращающий минимальное из трёх чисел.
+//Написать метод, возвращающий минимальное из трёх чисел. Тинин А
 namespace Homework_Lesson2_TininA
 {
     class Program
