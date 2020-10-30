@@ -1,0 +1,7 @@
+D:\программирование\GeekBrains\c#\CSharp_Level_1\Homework_Lesson2_TininA_Task4\bin\Debug\Homework_Lesson2_TininA_Task4.exe.config
+D:\программирование\GeekBrains\c#\CSharp_Level_1\Homework_Lesson2_TininA_Task4\bin\Debug\Homework_Lesson2_TininA_Task4.exe
+D:\программирование\GeekBrains\c#\CSharp_Level_1\Homework_Lesson2_TininA_Task4\bin\Debug\Homework_Lesson2_TininA_Task4.pdb
+D:\программирование\GeekBrains\c#\CSharp_Level_1\Homework_Lesson2_TininA_Task4\obj\Debug\Homework_Lesson2_TininA_Task4.csproj.CoreCompileInputs.cache
+D:\программирование\GeekBrains\c#\CSharp_Level_1\Homework_Lesson2_TininA_Task4\obj\Debug\Homework_Lesson2_TininA_Task4.exe
+D:\программирование\GeekBrains\c#\CSharp_Level_1\Homework_Lesson2_TininA_Task4\obj\Debug\Homework_Lesson2_TininA_Task4.pdb
+D:\программирование\GeekBrains\c#\CSharp_Level_1\Homework_Lesson2_TininA_Task4\obj\Debug\Homework_Lesson2_TininA_Task4.csprojAssemblyReference.cache
