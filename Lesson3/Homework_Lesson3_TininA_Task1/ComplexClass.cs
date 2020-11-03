@@ -86,8 +86,9 @@ namespace Homework_Lesson3_TininA_Task1
      
             public override string ToString()
             {
-                return re + "+" + im + "i";
-            }
+                string Sign = im < 0 ? "-" : "+";
+                return re + $"{Sign}i";
+        }
         }
     }
    

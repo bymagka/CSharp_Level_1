@@ -37,7 +37,8 @@
 
         public override string ToString()
         {
-            return re + "+" + im + "i";
+            string Sign = im < 0 ? "-" : "+";
+            return re + $"{Sign}i";
         }
     }   
    
