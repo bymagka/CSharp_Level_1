@@ -29,7 +29,7 @@ namespace Homework_Lesson3_Task2
                 else
                 {
                     if (number == 0) break;
-                    if(number > 0 && number % 2 != 0) sum += number;
+                    if (number > 0 && number % 2 != 0) sum += number;
                 }
             } while (true);
 
