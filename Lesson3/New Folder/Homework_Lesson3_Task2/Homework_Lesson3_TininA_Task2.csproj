@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{575A267A-526F-4452-8F0D-11DE9D8B28CC}</ProjectGuid>
+    <ProjectGuid>{4B563A9D-E839-476A-BF90-5467E6C10B52}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Homework_Lesson3_TininA_Task1</RootNamespace>
-    <AssemblyName>Homework_Lesson3_TininA_Task1</AssemblyName>
+    <RootNamespace>Homework_Lesson3_Task2</RootNamespace>
+    <AssemblyName>Homework_Lesson3_Task2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Complex.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
