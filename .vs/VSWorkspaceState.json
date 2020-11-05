@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lesson3",
     "\\Lesson3\\New Folder",
-    "\\Lesson3\\New Folder\\Homework_Lesson3_Task2"
+    "\\Lesson3\\New Folder\\Homework_Lesson3_Task2",
+    "\\Lesson3\\New Folder\\Homework_Lesson3_TininA_Task1",
+    "\\Lesson4"
   ],
-  "SelectedNode": "\\Lesson3\\New Folder\\Homework_Lesson3_Task2\\Program.cs",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
