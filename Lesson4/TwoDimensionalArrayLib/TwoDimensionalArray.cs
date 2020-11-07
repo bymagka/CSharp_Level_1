@@ -148,11 +148,10 @@ namespace TwoDimensionalArrayLib
         public int Sum(int FirstBorder, int SecondBorder)
         {
             int sum = 0;
-            for (int i = 0; i < a.GetLength(0); i++)
+            for (int i = FirstBorder; i < a.GetLength(0); i++)
             {
-                for (int j = 0; j < a.GetLength(1); j++)
+                for (int j = SecondBorder; j < a.GetLength(1); j++)
                 {
-                    if (i < FirstBorder && j < SecondBorder) continue;
                     sum += a[i, j];
                 }
             }
