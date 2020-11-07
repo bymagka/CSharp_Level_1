@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lesson3\\New Folder",
-    "\\Lesson3\\New Folder\\Homework_Lesson3_Task2",
-    "\\Lesson3\\New Folder\\Homework_Lesson3_TininA_Task1",
-    "\\Lesson4"
+    "\\Lesson2",
+    "\\Lesson2\\Homework_Lesson2_TininA_Task4",
+    "\\Lesson2\\Homework_Lesson2_TininA_Task5",
+    "\\Lesson2\\Homework_Lesson2_TininA_Task6",
+    "\\Lesson2\\Homework_Lesson2_TininA_Task7",
+    "\\Lesson4",
+    "\\Lesson4\\Homework_Lesson4_TininA_Task3",
+    "\\Lesson4\\Homework_Lesson4_TininA_Task3\\MyArray",
+    "\\Lesson4\\Homework_Lesson4_TininA_Task4"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\Lesson4\\Homework_Lesson4_TininA_Task3\\MyArray\\SpecialArray.cs",
   "PreviewInSolutionExplorer": false
 }
