@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lesson4\\Homework_Lesson4_TininA_Task3\\MyArray",
     "\\Lesson4\\Homework_Lesson4_TininA_Task5",
-    "\\Lesson4\\TwoDimensionalArrayLib"
+    "\\Lesson4\\TwoDimensionalArrayLib",
+    "\\Lesson5",
+    "\\Lesson5\\Homework_Lesson5_TininA_Task1",
+    "\\Lesson5\\Homework_Lesson5_TininA_Task3",
+    "\\Lesson5\\Homework_Lesson5_TininA_Task3\\Properties"
   ],
-  "SelectedNode": "\\Lesson5",
+  "SelectedNode": "\\Lesson5\\Homework_Lesson5_TininA_Task3\\App.config",
   "PreviewInSolutionExplorer": false
 }

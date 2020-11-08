@@ -51,6 +51,7 @@ namespace Homework_Lesson5_TininA_Task1
             foreach (char item in password)
             {
                 if (!char.IsLetterOrDigit(item)) return false;
+                if (item > 'а' && item < 'я') return false;
             }
 
             return true;
