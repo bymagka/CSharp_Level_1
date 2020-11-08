@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lesson2",
-    "\\Lesson2\\Homework_Lesson2_TininA_Task4",
-    "\\Lesson2\\Homework_Lesson2_TininA_Task5",
-    "\\Lesson2\\Homework_Lesson2_TininA_Task6",
-    "\\Lesson2\\Homework_Lesson2_TininA_Task7",
-    "\\Lesson4",
-    "\\Lesson4\\Homework_Lesson4_TininA_Task3",
     "\\Lesson4\\Homework_Lesson4_TininA_Task3\\MyArray",
-    "\\Lesson4\\Homework_Lesson4_TininA_Task4"
+    "\\Lesson4\\Homework_Lesson4_TininA_Task5",
+    "\\Lesson4\\TwoDimensionalArrayLib"
   ],
-  "SelectedNode": "\\Lesson4\\Homework_Lesson4_TininA_Task3\\MyArray\\SpecialArray.cs",
+  "SelectedNode": "\\Lesson5",
   "PreviewInSolutionExplorer": false
 }
