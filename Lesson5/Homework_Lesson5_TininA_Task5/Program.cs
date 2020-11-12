@@ -67,7 +67,7 @@ namespace Homework_Lesson5_TininA_Task5
 
                 if(SplittedString.Length != 2)
                 {
-                    Console.WriteLine("Одна из строк введена не верно");
+                    Console.WriteLine("Одна из строк введена неверно");
                 }
                 else
                 {
