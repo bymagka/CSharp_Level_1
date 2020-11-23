@@ -89,6 +89,14 @@ namespace Homework_Lesson8_TininA_Task3
             {
                 database = new TrueFalse(ofd.FileName);
                 database.Load();
+                if (database.Count == 0)
+                {
+                    MessageBox.Show("В указанном файле нет вопросов для загрузки!");
+                    return;
+                }
+
+                
+
                 nudNumber.Minimum = 1;
                 nudNumber.Maximum = database.Count;
                 nudNumber.Value = 1;

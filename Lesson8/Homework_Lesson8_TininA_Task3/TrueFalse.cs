@@ -63,6 +63,14 @@ namespace Homework_Lesson8_TininA_Task3
             xmlFormat.Serialize(fStream, list);
             fStream.Close();
         }
+
+        //а) Создать приложение, показанное на уроке, добавив в него защиту от возможных ошибок (не создана база данных, обращение к несуществующему вопросу, открытие слишком большого файла и т.д.).
+        //процедура очищает весь спиоск
+        public void RemoveAll()
+        {
+            list.RemoveAll(x => true);
+        }
+
         public void Load()
         {
             XmlSerializer xmlFormat = new XmlSerializer(typeof(List<Question>));
