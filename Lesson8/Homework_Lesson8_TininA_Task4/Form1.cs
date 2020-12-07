@@ -58,7 +58,6 @@ namespace Homework_Lesson8_TininA_Task4
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            // а) Создать приложение, показанное на уроке, добавив в него защиту от возможных ошибок (не создана база данных, обращение к несуществующему вопросу, открытие слишком большого файла и т.д.).
             if (nudNumber.Maximum == 1 || database == null) return;
 
             // д) Добавить в приложение сообщение с предупреждением при попытке удалить вопрос.
@@ -72,7 +71,6 @@ namespace Homework_Lesson8_TininA_Task4
         private void miSave_Click(object sender, EventArgs e)
         {
             if (database != null) database.Save();
-            // а) Создать приложение, показанное на уроке, добавив в него защиту от возможных ошибок (не создана база данных, обращение к несуществующему вопросу, открытие слишком большого файла и т.д.).
             else MessageBox.Show("База данных не создана");
         }
         // Обработчик пункта меню Open
@@ -103,7 +101,6 @@ namespace Homework_Lesson8_TininA_Task4
             database[(int)nudNumber.Value - 1].Meaning = tbMeaning.Text;
         }
 
-        // г)* Добавить пункт меню Save As, в котором можно выбрать имя для сохранения базы данных (элемент SaveFileDialog).
         private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog saveAsFileDialog = new SaveFileDialog();
@@ -114,7 +111,6 @@ namespace Homework_Lesson8_TininA_Task4
             }
         }
 
-        //в) Добавить в приложение меню «О программе» с информацией о программе (автор, версия, авторские права и др.).
         private void btnInfo_Click(object sender, EventArgs e)
         {
             MessageBox.Show($"Автор: Тинин А. \nВерсия:1.0 \nБлагодаронсти: GeekBrains");
